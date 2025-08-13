@@ -1,0 +1,14 @@
+# Expo CLI generated
+expo-env.d.ts
+
+# Node dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+android/
+ios/
+
+# Misc
+.env
